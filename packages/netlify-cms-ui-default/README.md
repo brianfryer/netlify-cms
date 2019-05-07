@@ -9,3 +9,4 @@ In the meantime, you can:
    site](https://www.netlifycms.org) for more info.
 2. Reach out to the [community chat](https://gitter.im/netlify/netlifycms/) if you need help.
 3. Help out and [write the readme yourself](https://github.com/netlify/netlify-cms/edit/master/packages/netlify-cms-ui-default/README.md)!
+
