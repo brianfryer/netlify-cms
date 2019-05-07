@@ -1,4 +1,4 @@
-# Docs coming soon!
+# DOCS COMING SOON!
 
 Netlify CMS was recently converted from a single npm package to a "monorepo" of over 20 packages.
 That's over 20 Readme's! We haven't created one for this package yet, but we will soon.
